@@ -5,6 +5,8 @@
 
 ⚡ Я изучаю **программирование**, а еще пишу **музыку** и очень люблю **фотографировать** ⚡
 
+[Для связи](https://thetimickrus.vercel.app/)
+
 <!--
 **TheTimickRus/TheTimickRus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
